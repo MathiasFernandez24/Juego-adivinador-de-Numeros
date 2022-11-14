@@ -1,10 +1,15 @@
 Mathias1
+<<<<<<< HEAD
+Maira
+Mathias3
+=======
 Mathias2
 <<<<<<< HEAD
 Mathias3
 Mauri
 =======
 Maxi
+>>>>>>> f25cbfe6e76e6e7faac9a409b7f188a8d9294940
 Mathias4
 >>>>>>> f25cbfe6e76e6e7faac9a409b7f188a8d9294940
 Mathias5
